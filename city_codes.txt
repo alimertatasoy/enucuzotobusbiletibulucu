@@ -1,0 +1,136 @@
+348: Adana Otogarı
+350: Ataşehir Dudullu Terminali
+352: Adıyaman Otogarı
+353: Afyon Otogarı
+354: Ağrı Otogarı
+355: Amasya Otogarı
+356: Ankara (Aşti) Otogarı
+357: Antalya Otogarı
+359: Aydın Otogarı
+360: Balıkesir Otogarı
+361: Bilecik Otogarı
+362: Bingöl Otogarı
+363: Bitlis Otogarı
+364: Bolu Otogarı
+365: Burdur Otogarı
+366: Bursa Otogarı
+367: Çanakkale Otogarı
+369: Çorum Otogarı
+370: Denizli Otogarı
+371: Diyarbakır Otogarı
+372: Edirne Otogarı
+373: Elazığ Otogarı
+374: Erzincan Otogarı
+375: Erzurum Otogarı
+376: Eskişehir Otogarı
+377: Gaziantep Otogarı
+378: Giresun Otogarı
+381: Isparta Otogarı
+382: Mersin Otogarı
+383: İzmir Otogarı
+384: Kars Otogarı
+385: Kastamonu Otogarı
+386: Kayseri Otogarı
+388: Kırşehir Otogarı
+389: Konya Otogarı
+390: Kütahya Otogarı
+391: Malatya (Maşti) Otogarı
+392: Manisa Otogarı
+393: Maraş (Kahramanmaraş) Otogarı
+394: Mardin Otogarı
+395: Muğla Otogarı
+396: Muş Otogarı
+397: Nevşehir Otogarı
+398: Niğde Otogarı
+399: Ordu Otogarı
+400: Rize Otogarı
+401: Samsun Otogarı
+402: Siirt Otogarı
+403: Sinop Otogarı
+404: Sivas Otogarı
+405: Tekirdağ Otogarı
+406: Tokat Otogarı
+407: Trabzon Otogarı
+408: Tunceli Otogarı
+409: Şanlıurfa Otogarı
+410: Uşak Otogarı
+411: Van Otogarı
+412: Yozgat Otogarı
+413: Zonguldak Otogarı
+416: Karaman Otogarı
+418: Batman Otogarı
+419: Şırnak Otobüs Kalkış-Varış Noktası
+422: Dörtyol (Iğdır) Otobüs Kalkış-Varış Nokt...
+423: Yalova Otogarı
+424: Karabük Otogarı
+426: Osmaniye Otogarı
+427: Düzce Otogarı
+428: Adapazarı Otogarı
+429: İzmit Otogarı
+430: Hatay Otogarı
+431: Acıgöl Otobüs Terminali
+432: Afşin Otogarı
+433: Akçaabat Otogarı
+434: Akçakoca Otogarı
+435: Akçay Otogarı
+437: Akhisar Otogarı
+441: Akseki Otobüs Kalkış-Varış Noktası
+442: Akşehir Otogarı
+443: Akyaka Otobüs Kalkış-Varış Noktası
+445: Alanya Otogarı
+446: Alaplı Otobüs Kalkış-Varış Noktası
+447: İzmir
+449: Altınoluk Otobüs Terminali
+450: Balıkesir
+452: Mersin
+453: Araç Otogarı
+454: Araklı Otogarı
+455: Ardeşen Otogarı
+456: Arhavi Otogarı
+457: Arsin Otobüs Kalkış-Varış Noktası
+458: Aşkale Otobüs Terminali
+459: Avanos Otogarı
+460: Mersin
+461: Canakkale
+462: Balikesir
+464: Babaeski Otogarı
+465: Bafra Otogarı
+467: Bandırma Otogarı
+470: Belek Kavşağı Otobüs Kalkış-Varış Noktas...
+472: Beşikdüzü Otogarı
+473: Beyşehir Otogarı
+474: Biga Otogarı
+475: Birecik Otogarı
+476: Bodrum Yeni(Torba) Otogarı
+478: Bor Otogarı
+482: Bozüyük Otobüs Terminali
+483: Bozyazı Otobüs Terminali
+484: Bucak Otogarı
+485: Bulancak Otogarı
+488: Ceyhan Otogarı
+490: Konya
+491: Cizre Otobüs Terminali
+493: Çarşamba Otogarı
+494: Çarşıbaşı Otogarı
+495: Çavdır Otobüs Terminali
+496: Çay Otogarı
+498: Çayeli Otogarı
+506: Çorlu Otogarı
+508: Dalaman Otobüs Terminali
+517: Devrek Otobüs Terminali
+518: Didim Otogarı
+521: Dinar Otogarı
+523: Dörtyol Otogarı
+525: Yarbaşı Otobüs Terminali
+527: Edremit Otogarı
+528: Eğirdir Otogarı
+529: Elbistan Otogarı
+530: Eleşkirt Otobüs Terminali
+532: Erciş Otogarı
+534: Erdemli Otobüs Kalkış-Varış Noktası
+536: Ereğli (Konya) Otogarı
+538: Ergani Otogarı
+539: Erzin Otobüs Terminali
+541: Eynesil Otobüs Kalkış-Varış Noktası
+543: Fatsa Otogarı
+544: Fethiye Otogarı
